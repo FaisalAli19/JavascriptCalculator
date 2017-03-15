@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "jquery": "^3.1.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
   }
 }
